@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Allen
 
-- 💻 I'm a Data Science Student at CodeUp!
+- 💻 I'm a Data Science Student at Codeup
 
 - 🌱 I’m learning SQL, Python 🐍, Tableau, Statistics 📈, and Storytelling
 
