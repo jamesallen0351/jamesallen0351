@@ -6,6 +6,8 @@
 
 - 🇺🇸 I’m a veteran of the U.S. ARMY
 
+- 🎓 BBA in Business Management from Texas Statue University
+
 - 📫 How to reach me james.allen0351@gmail.com
 
 <!---
