@@ -1,14 +1,14 @@
-- 👋 Hi, I’m James Allen
+- 👋  Hi, I’m James Allen
 
-- 💻 I'm a Data Science Student at Codeup
+- 💻  I'm a Data Science Student at Codeup
 
-- 🌱 I’m learning SQL, Python 🐍, Tableau, Statistics 📈, and Storytelling
+- 🌱  I’m learning SQL, Python 🐍, Tableau, Statistics 📈, and Storytelling
 
-- 🇺🇸 I’m a veteran of the U.S. ARMY
+- 🇺🇸  I’m a veteran of the U.S. ARMY
 
-- 🎓 BBA in Business Management from Texas Statue University
+- 🎓  BBA in Business Management from Texas Statue University
 
-- 📫 How to reach me james.allen0351@gmail.com
+- 📫  How to reach me james.allen0351@gmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamesallen0351&theme=dark)](https://git.io/streak-stats)
 
