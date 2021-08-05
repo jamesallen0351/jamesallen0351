@@ -2,7 +2,7 @@
 
 - 💻  I'm a Data Science Student at Codeup
 
-- 🌱  I’m learning SQL, Python 🐍, Tableau, Statistics 📈, and Storytelling
+- 🌱  I’m working with SQL, Python 🐍, Tableau, Statistics 📈, and Storytelling
 
 - 🇺🇸  I’m a veteran of the U.S. ARMY
 
