@@ -1,8 +1,8 @@
 - 👋  Hi, I’m James Allen
 
-- 💻  I'm a Data Science Student at Codeup
+- 💻  I'm practice Data Science at Codeup
 
-- 🌱  I’m working with SQL, Python 🐍, Tableau, Statistics 📈, and Storytelling
+- 🌱  I’m working with SQL, Python 🐍,, Tableau, Statistics 📈, Storytelling, Spark, and Machine Learning
 
 - 🇺🇸  I’m a veteran of the U.S. ARMY
 
