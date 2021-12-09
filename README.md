@@ -2,7 +2,7 @@
 
 - 💻  I'm a practitioner of Data Science and Codeup Alumni
 
-- 🌱  I’m working with SQL, Python 🐍,, Tableau, Statistics 📈, Storytelling, Spark, and Machine Learning
+- 🌱  I’m working with SQL, Python 🐍,, Tableau, Statistics 📈, Storytelling, Spark, Machine Learning and More
 
 - 🇺🇸  I’m a veteran of the U.S. ARMY
 
