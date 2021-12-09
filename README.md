@@ -1,6 +1,6 @@
 - 👋  Hi, I’m James Allen
 
-- 💻  I'm a practitioner of Data Science currently at Codeup
+- 💻  I'm a practitioner of Data Science and Codeup Alumni
 
 - 🌱  I’m working with SQL, Python 🐍,, Tableau, Statistics 📈, Storytelling, Spark, and Machine Learning
 
