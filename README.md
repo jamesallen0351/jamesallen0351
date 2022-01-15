@@ -8,6 +8,8 @@
 
 - 🎓  BBA in Business Management from Texas State University
 
+- 📝  MBA candidate from West Texas A&M
+
 - 📫  How to reach me james.allen0351@gmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamesallen0351&theme=dark)](https://git.io/streak-stats)
