@@ -8,7 +8,7 @@
 
 - 🎓  BBA in Business Management from Texas State University
 
-- 📝  MBA candidate from West Texas A&M
+- 📝  MBA candidate from West Texas A&M University
 
 - 📫  How to reach me james.allen0351@gmail.com
 
