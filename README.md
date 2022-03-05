@@ -1,4 +1,4 @@
-- 👋  Hi, I’m James Allen
+- 👋  Hello World, I’m James Allen
 
 - 💻  I'm a practitioner of Data Science and Codeup Alumni
 
